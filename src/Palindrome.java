@@ -3,7 +3,7 @@
 
         public static void main(String[] args) {
 
-            int num = 1211, reversedInteger = 0, remainder, originalInteger;
+            int num = 112211, reversedInteger = 0, remainder, originalInteger;
 
             originalInteger = num;
 
