@@ -3,7 +3,7 @@
 
         public static void main(String[] args) {
 
-            int num = 112211, reversedInteger = 0, remainder, originalInteger;
+            int num = 111122211, reversedInteger = 0, remainder, originalInteger;
 
             originalInteger = num;
 
@@ -17,7 +17,7 @@
 
             // palindrome if orignalInteger and reversedInteger are equal
             if (originalInteger == reversedInteger)
-                System.out.println(originalInteger + " is a palindrome.");
+                System.out.println(originalInteger + " is the palindrome.");
             else
                 System.out.println(originalInteger + " is not a palindrome.");
         }
